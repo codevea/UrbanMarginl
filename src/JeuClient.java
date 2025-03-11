@@ -25,4 +25,10 @@ public class JeuClient extends Jeu {
 	public void envoi() {
 	}
 
+	@Override
+	public void deconnexion() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
