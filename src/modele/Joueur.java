@@ -1,3 +1,4 @@
+package modele;
 /**
  * Gestion des joueurs
  *
@@ -45,6 +46,7 @@ public class Joueur extends Objet {
 	* tourné vers la gauche (0) ou vers la droite (1)
 	*/
 	private int orientation ;
+	
 	/**
 	 * Constructeur
 	 */

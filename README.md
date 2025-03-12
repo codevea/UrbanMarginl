@@ -11,7 +11,7 @@ Il n'y a qu'une seule application qui permet de démarrer soit un jeu serveur, s
    <li>Le client se connecte au serveur pour entrer dans le jeu : il doit d'abord choisir un personnage pour pouvoir entrer dans l'arène où il pourra se déplacer, tirer des boules de feu vers les autres joueurs, être touché par une boule de feu et discuter dans une zone de tchat.</li>
 </ul>
 
-![Capture1](https://github.com/user-attachments/assets/8df0e586-522a-407a-a42d-42e989792b32)
+![Capture1](https://github.com/user-attachments/assets/ed7a7913-58d3-4d52-aec9-15900ff0c164)
 
 <h2>Caractéristiques techniques</h2>
 
@@ -59,7 +59,7 @@ Certaines manipulations provoquent des sons :
 
 <h2>Fenêtre de démarrage du jeu </h2>
 
-![Connexion](https://github.com/user-attachments/assets/38e147d9-8432-4472-965b-a64f6e586b1f)
+![Connexion](https://github.com/user-attachments/assets/7b4b46a8-1a34-40fc-aaf7-f3294d493970)
 
 <br>
 Cette première fenêtre permet de choisir d’être serveur ou client. <br>
@@ -75,7 +75,7 @@ Si la connexion échoue, un message est affiché. Si la connexion réussie, cett
 
 <h2>Fenêtre de choix du personnage </h2>
 
-![ChoixJoueur](https://github.com/user-attachments/assets/48b897b1-df50-4220-8668-2a6ec13003c3)
+![ChoixJoueur](https://github.com/user-attachments/assets/72276b39-f2c2-4d93-8080-9bacdb62efb5)
 
 <br>
 La fenêtre du choix du personnage permet au joueur de saisir son pseudo et de choisir un personnage parmi plusieurs avatars proposés, en utilisant les flèches. <br>
@@ -87,7 +87,7 @@ Une fois le personnage choisi et le pseudo saisi, il suffit de cliquer sur GO. L
 <h3>Présentation </h3>
 La fenêtre de l'arène représente la zone du jeu. Elle contient la zone de jeu avec 20 murs posés aléatoirement (les murs peuvent se superposer) et les joueurs déjà présents(qui ne peuvent pas se superposer entre eux ou avec un mur). Elle contient aussi une zone de saisie (uniquement côté client) et une zone de visualisation pour le tchat.<br>
 
-![Arene](https://github.com/user-attachments/assets/70332d04-85cd-40fa-9e01-8118759c9c90)
+![Arene](https://github.com/user-attachments/assets/bbaf8ad1-e0c9-437d-80f2-81578ce5e40d)
 
 <br>
 Côté serveur, elle permet juste de visualiser ce qui se passe et ne permet aucune action. <br>
